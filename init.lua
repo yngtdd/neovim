@@ -1,0 +1,16 @@
+require('plugins')
+require('keymaps')
+require('options')
+
+-- configs
+require('configs.treesitter')
+require('configs.nvimtree')
+require('configs.lsp-installer')
+require('configs.staline')
+require('configs.comment')
+require('configs.lsp')
+require('configs.indent')
+require('configs.colorizer')
+require('configs.cmp-conf')
+require('configs.telescope')
+require('impatient')
